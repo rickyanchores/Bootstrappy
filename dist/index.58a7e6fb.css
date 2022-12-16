@@ -13,4 +13,20 @@ body {
   background: red;
 }
 
+.Gallery {
+  height: 500px;
+  flex-flow: column wrap;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.Gallery .carousel {
+  width: 400px;
+  height: 350px;
+  border: 5px solid #fff;
+  border-radius: 12px;
+  overflow: hidden;
+}
+
 /*# sourceMappingURL=index.58a7e6fb.css.map */
